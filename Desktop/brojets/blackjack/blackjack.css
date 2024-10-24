@@ -22,7 +22,7 @@ h1{
 }
 
 button{
-    
+    border-radius: 10%;
     color: black;
     background: goldenrod;
     width: 150px;
